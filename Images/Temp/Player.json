@@ -1,0 +1,22 @@
+[
+  {
+    "ResourceName": "PathOfExile.HealthBar",
+    "RoutineName": "Player",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.EnergyShield",
+    "RoutineName": "Player",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  }
+]

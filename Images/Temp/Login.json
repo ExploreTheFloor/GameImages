@@ -1,0 +1,32 @@
+[
+  {
+    "ResourceName": "PathOfExile.LoginButton",
+    "RoutineName": "Login",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.PlayButton",
+    "RoutineName": "Login",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.LoginButton",
+    "RoutineName": "Login",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  }
+]

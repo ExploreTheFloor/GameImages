@@ -1,0 +1,22 @@
+[
+  {
+    "ResourceName": "PathOfExile.OkButton",
+    "RoutineName": "General",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 40,
+    "Bottom": 40,
+    "Left": 50,
+    "Right": 30,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Waypoint",
+    "RoutineName": "General",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  }
+]

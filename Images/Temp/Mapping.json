@@ -1,0 +1,22 @@
+[
+  {
+    "ResourceName": "PathOfExile.Teleport",
+    "RoutineName": "Mapping",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.NotInZone",
+    "RoutineName": "Mapping",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  }
+]

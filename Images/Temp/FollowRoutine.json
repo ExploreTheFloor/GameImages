@@ -1,0 +1,62 @@
+[
+  {
+    "ResourceName": "PathOfExile.OkButton",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 40,
+    "Bottom": 40,
+    "Left": 50,
+    "Right": 30,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Waypoint",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.HealthBar",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.EnergyShield",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Teleport",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.NotInZone",
+    "RoutineName": "FollowRoutine",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  }
+]

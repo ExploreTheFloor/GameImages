@@ -1,0 +1,25 @@
+{
+  "GameWindows": [
+    {
+      "Name": "HD-Player",
+      "X": 127,
+      "Y": 120,
+      "Height": 605,
+      "Width": 325
+    }
+  ],
+  "KeyboardDeviceId": 0,
+  "MouseDeviceId": 0,
+  "ClickDelay": 50,
+  "ScrollDelay": 50,
+  "MoveDelay": 10,
+  "KeyPressDelay": 50,
+  "MainWindowX": 0,
+  "MainWindowY": 0,
+  "MainWindowWidth": 800,
+  "MainWindowLength": 600,
+  "DebugWindowX": 0,
+  "DebugWindowY": 0,
+  "DebugWindowWidth": 800,
+  "DebugWindowLength": 600
+}

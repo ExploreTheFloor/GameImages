@@ -1,0 +1,212 @@
+[
+  {
+    "ResourceName": "PathOfExile.HealthBar",
+    "RoutineName": "Player",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.EnergyShield",
+    "RoutineName": "Player",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.OkButton",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 40,
+    "Bottom": 40,
+    "Left": 50,
+    "Right": 30,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Waypoint",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.HealthBar",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.EnergyShield",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Teleport",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.NotInZone",
+    "RoutineName": "FollowRoutine",
+    "Image": null,
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.OkButton",
+    "RoutineName": "General",
+    "Image": null,
+    "Top": 40,
+    "Bottom": 40,
+    "Left": 50,
+    "Right": 30,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Waypoint",
+    "RoutineName": "General",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.CraftingBench",
+    "RoutineName": "Hideout",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.GuildStash",
+    "RoutineName": "Hideout",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Stash",
+    "RoutineName": "Hideout",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.MapDevice",
+    "RoutineName": "Hideout",
+    "Image": null,
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.LoginButton",
+    "RoutineName": "Login",
+    "Image": null,
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.PlayButton",
+    "RoutineName": "Login",
+    "Image": null,
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.LoginButton",
+    "RoutineName": "Login",
+    "Image": null,
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Teleport",
+    "RoutineName": "Mapping",
+    "Image": null,
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.NotInZone",
+    "RoutineName": "Mapping",
+    "Image": null,
+    "Top": 20,
+    "Bottom": 50,
+    "Left": 0,
+    "Right": 80,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.HealthBar",
+    "RoutineName": "Player",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.EnergyShield",
+    "RoutineName": "Player",
+    "Image": null,
+    "Top": 11,
+    "Bottom": 13,
+    "Left": 15,
+    "Right": 15,
+    "MatchPercent": 91
+  }
+]

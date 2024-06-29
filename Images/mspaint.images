@@ -1,0 +1,79 @@
+[
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "RedBar",
+    "Top": 25,
+    "Bottom": 15,
+    "Left": 7,
+    "Right": 19,
+    "MatchPercent": 0,
+    "ColorMatch": true
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "YellowBar",
+    "Top": 25,
+    "Bottom": 15,
+    "Left": 7,
+    "Right": 19,
+    "MatchPercent": 0,
+    "ColorMatch": true
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "HealthBar",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 0,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "GreenBar",
+    "Top": 25,
+    "Bottom": 15,
+    "Left": 7,
+    "Right": 19,
+    "MatchPercent": 0,
+    "ColorMatch": true
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "EnemyHealthBar",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 0,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "BarImages",
+    "ResourceName": "BlueBar",
+    "Top": 25,
+    "Bottom": 15,
+    "Left": 7,
+    "Right": 19,
+    "MatchPercent": 0,
+    "ColorMatch": true
+  },
+  {
+    "ApplicationName": "mspaint",
+    "RoutineName": "TaskBarRoutine",
+    "ResourceName": "FileButton",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 0,
+    "ColorMatch": true
+  }
+]

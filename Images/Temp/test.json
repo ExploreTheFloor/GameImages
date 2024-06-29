@@ -1,0 +1,22 @@
+[
+  {
+    "ResourceName": "PathOfExile.TradeWindow",
+    "RoutineName": "",
+    "Image": null,
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.AcceptTradeButton",
+    "RoutineName": "",
+    "Image": null,
+    "Top": 55,
+    "Bottom": 20,
+    "Left": 60,
+    "Right": 20,
+    "MatchPercent": 91
+  }
+]

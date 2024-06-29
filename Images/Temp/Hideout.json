@@ -1,0 +1,42 @@
+[
+  {
+    "ResourceName": "PathOfExile.CraftingBench",
+    "RoutineName": "Hideout",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.GuildStash",
+    "RoutineName": "Hideout",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.Stash",
+    "RoutineName": "Hideout",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  },
+  {
+    "ResourceName": "PathOfExile.MapDevice",
+    "RoutineName": "Hideout",
+    "Image": "System.Drawing.Bitmap",
+    "Top": 7,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 91
+  }
+]
