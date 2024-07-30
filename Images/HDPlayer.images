@@ -122,17 +122,6 @@
   },
   {
     "ApplicationName": "HDPlayer",
-    "CategoryName": "ErrorScreen",
-    "ResourceName": "OkButton",
-    "Top": 0,
-    "Bottom": 0,
-    "Left": 0,
-    "Right": 0,
-    "MatchPercent": 80,
-    "ColorMatch": false
-  },
-  {
-    "ApplicationName": "HDPlayer",
     "CategoryName": "EventRelics",
     "ResourceName": "AegisOfBane",
     "Top": 0,
@@ -706,7 +695,29 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "EventScreen",
-    "ResourceName": "BlackfathomDeepsIcon",
+    "ResourceName": "BeastLeaders",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 80,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "HDPlayer",
+    "CategoryName": "EventScreen",
+    "ResourceName": "BlackrockLeaders",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 80,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "HDPlayer",
+    "CategoryName": "EventScreen",
+    "ResourceName": "CenarionLeader",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
@@ -728,7 +739,7 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "EventScreen",
-    "ResourceName": "DireMaul",
+    "ResourceName": "EnterDungeon",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
@@ -739,7 +750,7 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "EventScreen",
-    "ResourceName": "EnterDungeon",
+    "ResourceName": "UndeadLeaders",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
@@ -751,6 +762,17 @@
     "ApplicationName": "HDPlayer",
     "CategoryName": "General",
     "ResourceName": "OkButton",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 80,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "HDPlayer",
+    "CategoryName": "General",
+    "ResourceName": "RetryButton",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
@@ -1113,7 +1135,7 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "PvPScreen",
-    "ResourceName": "CancelButton",
+    "ResourceName": "BackButton",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
