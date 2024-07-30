@@ -772,7 +772,7 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "General",
-    "ResourceName": "Reconnect",
+    "ResourceName": "ReconnectButton",
     "Top": 0,
     "Bottom": 0,
     "Left": 0,
