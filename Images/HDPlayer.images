@@ -772,6 +772,17 @@
   {
     "ApplicationName": "HDPlayer",
     "CategoryName": "General",
+    "ResourceName": "Reconnect",
+    "Top": 0,
+    "Bottom": 0,
+    "Left": 0,
+    "Right": 0,
+    "MatchPercent": 80,
+    "ColorMatch": false
+  },
+  {
+    "ApplicationName": "HDPlayer",
+    "CategoryName": "General",
     "ResourceName": "RetryButton",
     "Top": 0,
     "Bottom": 0,
