@@ -1,7 +1,7 @@
 [
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "RedBar",
     "Top": 25,
     "Bottom": 15,
@@ -12,7 +12,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "YellowBar",
     "Top": 25,
     "Bottom": 15,
@@ -23,7 +23,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "HealthBar",
     "Top": 0,
     "Bottom": 0,
@@ -34,7 +34,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "GreenBar",
     "Top": 25,
     "Bottom": 15,
@@ -45,7 +45,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "EnemyHealthBar",
     "Top": 0,
     "Bottom": 0,
@@ -56,7 +56,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "BarImages",
+    "CategoryName": "BarImages",
     "ResourceName": "BlueBar",
     "Top": 25,
     "Bottom": 15,
@@ -67,7 +67,7 @@
   },
   {
     "ApplicationName": "mspaint",
-    "RoutineName": "TaskBarRoutine",
+    "CategoryName": "TaskBarRoutine",
     "ResourceName": "FileButton",
     "Top": 0,
     "Bottom": 0,
